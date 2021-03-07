@@ -12,7 +12,11 @@ Cualquier dura respecto al proyecto o al modelo en si, puede ser solucionada con
 Este proyecto es mantenido por todos los contribuyentes en su desarollo, pertenecientes al equipo 5 de computer vision, que son los siguientes:
 
 -Alvare Alejandro Rodriguez Gonzalez
+
 -Francisco Ismael Sainz Williams
+
 -Marcelo Alejandro Salazar Martinez
+
 -Marcelo Suarez Ponce
+
 -Arturo Vazquez Munoz
