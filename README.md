@@ -1,1 +1,1 @@
-# Equipo5
+# Equipo5 Actividad Integradora
